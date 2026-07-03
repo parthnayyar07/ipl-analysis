@@ -1,5 +1,5 @@
-\# 🏏 IPL Cricket Data Analysis (2007–2024)
-
+\# **IPL Cricket Data Analysis (2007–2024)
+**
 
 
 Exploratory data analysis on 17 seasons of IPL ball-by-ball data
@@ -7,28 +7,14 @@ Exploratory data analysis on 17 seasons of IPL ball-by-ball data
 (260,000+ deliveries across 1095 matches) using Python, Pandas and Seaborn.
 
 
+\# **Charts Preview**
 
-\---
+\[Top Run-Scorers](images/chart1\_top\_scorers.png)
 
-
-
-\## 📊 Charts Preview
-
+\[Win Percentage](images/chart4\_win\_pct.png)
 
 
-!\[Top Run-Scorers](images/chart1\_top\_scorers.png)
-
-!\[Win Percentage](images/chart4\_win\_pct.png)
-
-
-
-\---
-
-
-
-\## 🔍 Key Findings
-
-
+\# **Key Findings**
 
 1\. \*\*V Kohli is the all-time top scorer\*\* with 7,987 runs across 17 seasons
 
@@ -41,12 +27,7 @@ Exploratory data analysis on 17 seasons of IPL ball-by-ball data
 5\. \*\*Wankhede Stadium produces the highest scores\*\* among all top venues
 
 
-
-\---
-
-
-
-\## 📁 Dataset
+\# **Dataset**
 
 \- Source: IPL Complete Dataset (Kaggle)
 
@@ -55,12 +36,7 @@ Exploratory data analysis on 17 seasons of IPL ball-by-ball data
 \- Files: matches.csv + deliveries.csv (merged on match\_id)
 
 
-
-\---
-
-
-
-\## 🛠 Tech Stack
+\# **Tech Stack**
 
 \- Python 3.x
 
@@ -73,16 +49,10 @@ Exploratory data analysis on 17 seasons of IPL ball-by-ball data
 \- Jupyter Notebook
 
 
-
-\---
-
-
-
-\## 📈 Analyses Performed
+\# **Analyses Performed**
 
 | # | Analysis | Method |
 
-|---|----------|--------|
 
 | 1 | Top 10 run-scorers | groupby + sum + sort |
 
@@ -97,14 +67,7 @@ Exploratory data analysis on 17 seasons of IPL ball-by-ball data
 | 6 | Score distribution by venue | groupby + boxplot |
 
 
-
-\---
-
-
-
-\## ▶️ How to Run
-
-
+\# **How to Run**
 
 ```bash
 
@@ -118,9 +81,6 @@ jupyter notebook notebooks/ipl\_eda.ipynb
 
 ```
 
-
-
-\---
 
 \*Analysis by Parth Nayyar | Mahindra University\*
 
