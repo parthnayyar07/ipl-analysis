@@ -1,5 +1,5 @@
-\# **IPL Cricket Data Analysis (2007–2024)
-**
+\# **IPL Cricket Data Analysis (2007–2024)**
+
 
 
 Exploratory data analysis on 17 seasons of IPL ball-by-ball data
